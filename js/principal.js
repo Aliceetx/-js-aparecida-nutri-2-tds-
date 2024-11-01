@@ -14,3 +14,7 @@ var imc = peso / (altura * altura);
 
 
 tdImc.textContent = imc;
+
+.adicionar-paciente{
+    margin-top: 30px;
+}
